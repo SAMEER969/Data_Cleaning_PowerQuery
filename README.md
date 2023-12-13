@@ -131,3 +131,7 @@ Various steps involved in the data cleaning process using Power Query in Microso
     Save the Excel workbook with the cleaned data.
 
 
+![Screenshot 2023-12-13 155507](https://github.com/SAMEER969/Data_Cleaning_PowerQuery/assets/88267199/4df81583-f54f-4acd-baf2-3e53047b8ccc)
+![Screenshot 2023-12-13 155641](https://github.com/SAMEER969/Data_Cleaning_PowerQuery/assets/88267199/68f78d18-22aa-43a4-9fe4-54af244fb372)
+
+
