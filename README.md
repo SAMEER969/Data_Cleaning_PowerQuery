@@ -142,5 +142,6 @@ Dataset 2:
 ![Screenshot 2023-12-13 155842](https://github.com/SAMEER969/Data_Cleaning_PowerQuery/assets/88267199/8dd39d5f-a15c-41b2-87af-325d8f28458f)
 
 Dataset 3:
-
+![Screenshot 2023-12-13 160550](https://github.com/SAMEER969/Data_Cleaning_PowerQuery/assets/88267199/c65026dd-a52c-4a36-9af4-c35b36a23140)
+![Screenshot 2023-12-13 160731](https://github.com/SAMEER969/Data_Cleaning_PowerQuery/assets/88267199/6cf5e7c5-eee7-49c0-b96d-66e8d6c98f55)
 
