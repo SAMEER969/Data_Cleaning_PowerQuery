@@ -13,7 +13,6 @@ Some key reasons why data cleaning is important:
 
 ‣ Preventing Bias
 
-
 ‣ Consistency Across Datasets
 
 ‣ Cost Efficiency
@@ -40,118 +39,95 @@ Various steps involved in the data cleaning process using Power Query in Microso
 
 1. Load Data into Power Query
 
-• Get Data:
+  • Get Data:
+     Open Excel, go to the "Data" tab, and click on "Get Data" to import data from various sources like Excel, CSV, database, or web.
 
-Open Excel, go to the "Data" tab, and click on "Get Data" to import data from various sources like Excel, CSV, database, or web.
-
-• Transform Data:
-
-Load the data into the Power Query Editor by selecting "Transform Data" or "Load."
+  • Transform Data:
+     Load the data into the Power Query Editor by selecting "Transform Data" or "Load."
 
 2. Explore and Understand the Data
 
-• Preview Data:
+  • Preview Data:
+    Use the "Home" tab to preview and understand the structure of your data.
 
-Use the "Home" tab to preview and understand the structure of your data.
-
-• Data Profiling:
-
-Explore data profiling options to identify issues like missing values, data types, and distributions.
+  • Data Profiling:
+    Explore data profiling options to identify issues like missing values, data types, and distributions.
 
 3. Basic Data Cleaning
 
-• Remove Duplicates:
+  • Remove Duplicates:
+    Remove duplicate rows using the "Remove Duplicates" option in the "Home" tab.
 
-Remove duplicate rows using the "Remove Duplicates" option in the "Home" tab.
+  • Filter Rows:
+    Filter out irrelevant rows based on criteria using the filter options.
 
-• Filter Rows:
-
-Filter out irrelevant rows based on criteria using the filter options.
-
-• Handling Missing Values:
-
-Use the "Replace Values" option or filter out rows with missing values.
+  • Handling Missing Values:
+    Use the "Replace Values" option or filter out rows with missing values.
 
 4. Advanced Data Transformations
 
-• Split Columns:
+  • Split Columns:
+    Split a column into multiple columns using the "Split Column" option.
 
-Split a column into multiple columns using the "Split Column" option.
+  • Merge Queries:
+    Combine data from multiple queries or tables using the "Merge Queries" option.
 
-• Merge Queries:
-
-Combine data from multiple queries or tables using the "Merge Queries" option.
-
-• Pivot and Unpivot:
-
-Reshape your data by pivoting or unpivoting columns using the respective options.
+  • Pivot and Unpivot:
+    Reshape your data by pivoting or unpivoting columns using the respective options.
 
 5. Text and Data Formatting
 
-• Change Data Types:
+  • Change Data Types:
+    Convert data types of columns using the "Change Type" option.
 
-Convert data types of columns using the "Change Type" option.
+  • Text-to-Columns:
+    Split text values into separate columns using the "Text-to-Columns" feature.
 
-• Text-to-Columns:
-
-Split text values into separate columns using the "Text-to-Columns" feature.
-
-• Trimming and Cleaning:
-
-Remove leading or trailing spaces, and clean up text using functions like Text.Trim and Text.Clean.
+  • Trimming and Cleaning:
+    Remove leading or trailing spaces, and clean up text using functions like Text.Trim and Text.Clean.
 
 6. Custom Transformations
 
-• Create Custom Columns:
+  • Create Custom Columns:
+    Add new columns with custom calculations using the "Add Column" tab.
 
-Add new columns with custom calculations using the "Add Column" tab.
-
-• Apply Functions:
-
-Use built-in or custom functions to manipulate data within columns.
+  • Apply Functions:
+    Use built-in or custom functions to manipulate data within columns.
 
 7. Filter and Sort Data
 
-• Filter Rows:
+  • Filter Rows:
+    Apply filters to include or exclude specific rows based on conditions.
 
-Apply filters to include or exclude specific rows based on conditions.
-
-• Sort Data:
-
-Sort data based on one or more columns using the sorting options.
+  • Sort Data:
+    Sort data based on one or more columns using the sorting options.
 
 8. Manage Queries
 
-• Rename Queries:
+  • Rename Queries:
+    Rename queries for clarity and better organization.
 
-Rename queries for clarity and better organization.
-
-• Organize Queries:
-
-Arrange queries in a logical order for better management.
+  • Organize Queries:
+    Arrange queries in a logical order for better management.
 
 9. Document Steps and Add Comments
 
-• Comments:
-
-Use comments to document each step for clarity and future reference.
+  • Comments:
+    Use comments to document each step for clarity and future reference.
 
 10. Close and Apply Changes
 
-• Close and Apply:
-
-Once satisfied with the transformations, close the Power Query Editor and apply the changes to load the cleaned data back into Excel.
+  • Close and Apply:
+    Once satisfied with the transformations, close the Power Query Editor and apply the changes to load the cleaned data back into Excel.
 
 11. Refresh Data
 
-• Refresh Data:
-
-If the source data changes, refresh the query to reflect the latest updates.
+  • Refresh Data:
+    If the source data changes, refresh the query to reflect the latest updates.
 
 12. Save Workbook
 
-• Save Workbook:
-
-Save the Excel workbook with the cleaned data.
+  • Save Workbook:
+    Save the Excel workbook with the cleaned data.
 
 
