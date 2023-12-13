@@ -130,8 +130,15 @@ Various steps involved in the data cleaning process using Power Query in Microso
    • Save Workbook:
     Save the Excel workbook with the cleaned data.
 
+Example of dirty datasets cleaned using power query in this project:
 
+Dataset 1:
 ![Screenshot 2023-12-13 155507](https://github.com/SAMEER969/Data_Cleaning_PowerQuery/assets/88267199/4df81583-f54f-4acd-baf2-3e53047b8ccc)
 ![Screenshot 2023-12-13 155641](https://github.com/SAMEER969/Data_Cleaning_PowerQuery/assets/88267199/68f78d18-22aa-43a4-9fe4-54af244fb372)
+
+
+Dataset 2:
+![Screenshot 2023-12-13 155744](https://github.com/SAMEER969/Data_Cleaning_PowerQuery/assets/88267199/24c5b331-999b-402d-878f-664ea1bd1b62)
+![Screenshot 2023-12-13 155842](https://github.com/SAMEER969/Data_Cleaning_PowerQuery/assets/88267199/8dd39d5f-a15c-41b2-87af-325d8f28458f)
 
 
